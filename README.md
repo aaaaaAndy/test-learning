@@ -15,5 +15,18 @@
 
 
 ## 2. 功能测试核心
+类别 | 知识点
+--|--
+[测试的各个阶段](/Test-knowledge/测试的各各个阶段.md) | 单元，集成，有效性，系统，验收
+[测试分类](/Test-knowledge/测试分类.md) | 静动，回归，冒烟，ab
+[测试工作](/Test-knowledge/测试分类.md) | 
+[测试类型](/Test-knowledge/测试类型.md) | 安全性测试
+[测试实例](/Test-knowledge/测试实例.md) | 实例
+[测试用例](/Test-knowledge/测试用例.md) | 
+[黑盒白盒测试](/Test-knowledge/黑盒白盒测试.md) | 黑白盒
+[开发人员组成](/Test-knowledge/开发人员组成.md) | 项目、产品、ui、ue
+[软件缺陷](/Test-knowledge/软件缺陷（bug）.md) | bug管理   
+[软件生命周期及模型](/Test-knowledge/软件生命周期及模型.md) | 
+[软件质量](/Test-knowledge/软件质量.md) | 质量特性
 
 ## 3. 自动化测试
